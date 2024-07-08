@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdellahgit 
-- 👀 I’m interested in Data analytics busines analytics, and machine learning 
-- 🌱 I’m currently learning Python, SQL, pandas
+- 👀 I’m interested in Data analytics business analytics, and machine learning 
+- 🌱 I’m currently learning Python, SQL, pandas and more 
 - 💞️ I’m looking to collaborate on Data analytics projects, creating dashboards analysing realworld data to present trends and propose solutions
 - 📫 How to reach me you can contact me via email 
 - ⚡ Fun fact: 
